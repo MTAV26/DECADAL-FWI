@@ -1,12 +1,12 @@
 # DECADAL-FWI
 #========================
                                         
-                                                                    Multi-year predictions of European extreme fire weather conditions.
+Multi-year predictions of European extreme fire weather conditions.
 
 #==========================
 
-                                                 Miguel Ángel Torres-Vázquez^1*, Marco Turco^2, Carlos Delgado-Torres^3, Francesca Di Giuseppe^4,
-                                                         Panos J Athanasiadis^5, Leone Cavicchia^5, Dario Nicolì^5, Enrico Scoccimarro^5
+Miguel Ángel Torres-Vázquez^1*, Marco Turco^2, Carlos Delgado-Torres^3, Francesca Di Giuseppe^4,
+Panos J Athanasiadis^5, Leone Cavicchia^5, Dario Nicolì^5, Enrico Scoccimarro^5
 
 (1)	Universidad de Alcalá, Environmental Remote Sensing Research Group, Department of Geology, Geography and the Environment, Calle Colegios 2, Alcalá de Henares 28801, Spain.
 (2)	Regional Atmospheric Modelling (MAR) Group, Department of Physics, Regional Campus of International Excellence Campus Mare Nostrum (CEIR), University of Murcia, 30100 Murcia, Spain.
