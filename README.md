@@ -1,10 +1,8 @@
 # DECADAL-FWI
 #========================
-#========================
                                         
                                                                     Multi-year predictions of European extreme fire weather conditions.
 
-#==========================
 #==========================
 
                                                  Miguel Ángel Torres-Vázquez^1*, Marco Turco^2, Carlos Delgado-Torres^3, Francesca Di Giuseppe^4,
