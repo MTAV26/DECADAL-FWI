@@ -16,9 +16,9 @@ Panos J Athanasiadis^5, Leone Cavicchia^5, Dario Nicolì^5, Enrico Scoccimarro^5
 
 
 
-                                                               Corresponding author: Miguel Ángel Torres-Vázquez (miguela.torres@uah.es)
-                                                               Contact: Marco Turco, University of Murcia (marco.turco@um.es)
-
+ Corresponding author: Miguel Ángel Torres-Vázquez (miguela.torres@uah.es)
+ Contact: Marco Turco, University of Murcia (marco.turco@um.es)
+#
 #################################################################################################
 
 #################################################################################################
